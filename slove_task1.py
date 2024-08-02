@@ -10,3 +10,10 @@ for name in names:
 name = 'OmarMOhamed'
 for i in name:
     print(i)    
+
+
+# Q3 
+emp = {
+    'name':'Ahmed'
+}    
+print(emp)
